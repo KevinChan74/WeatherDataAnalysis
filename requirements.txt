@@ -1,0 +1,4 @@
+requests == 2.31.0
+schedule == 1.2.2
+matplotlib == 3.7.3
+pandas == 2.1.4
