@@ -3,10 +3,10 @@
 
 # Table of Contents
 
-- [About](#-about)
-- [Output](#-output)
-- [How to Build](#-how-to-build)
-- [Contact](#-contact)
+1. [About](#-about)
+2. [Output](#-output)
+3. [How to Build](#-how-to-build)
+4. [Contact](#-contact)
 
 # 📚 About
 This is a weather data analysis, which fetch the real-time weather data from openweathermap api. User could get regional weather analysis by simply clicking the buttons in graphical user interface.
